@@ -20,7 +20,7 @@ Write:
 *python3 sentiment_flipper.py* in the terminal in correct project directory
 
 
-## Understanding the program
+## Understanding the code
 
 1. The program reads the sentences from the *input.txt* file
 2. Each sentence is run through Google Perspective API and a toxicity score is assigned for it. Results are printed to *before.txt*
